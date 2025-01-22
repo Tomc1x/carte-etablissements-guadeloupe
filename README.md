@@ -25,12 +25,3 @@ Une application de cartographie interactive affichant les établissements scolai
 ## 🌐 Accéder à l'application
 
 L'application est hébergée sur GitHub Pages : [Carte des Établissements de Guadeloupe](https://tomc1x.github.io/carte-etablissements-guadeloupe/)
-
-## 🌟 Améliorations futures
-
-- Ajouter des options de recherche avancée.
-- Permettre aux utilisateurs de sauvegarder leurs établissements favoris.
-- Intégrer des couches cartographiques supplémentaires pour enrichir le contexte géographique.
-- Étendre le projet à d'autres départements.
-
----
