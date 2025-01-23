@@ -77,5 +77,10 @@ body {
 }
 
 .github-btn{
+    position:absolute;
+    left:20px;
+    bottom:20px;
+    height:100px;
+    width:100px;
     z-index:1051;
 }
