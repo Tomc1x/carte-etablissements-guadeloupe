@@ -76,14 +76,15 @@ body {
     stroke-dashoffset: -32.42;
 }
 
-.github-btn{
-    position:absolute;
-    left:20px;
-    bottom:20px;
-    height:30px;
-    width:30px;
-    display:flex;
-    justify-content:center;
-    align-items:center;
-    z-index:1051;
+.github-btn {
+    position: absolute;
+    left: 20px;
+    bottom: 20px;
+    height: 50px;
+    width: 50px;
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+    z-index: 1051;
+    font-size: 1.5em !important;
 }
