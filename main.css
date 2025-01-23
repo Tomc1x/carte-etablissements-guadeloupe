@@ -82,5 +82,8 @@ body {
     bottom:20px;
     height:100px;
     width:100px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
     z-index:1051;
 }
